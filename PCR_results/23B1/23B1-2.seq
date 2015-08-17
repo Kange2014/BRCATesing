@@ -1,0 +1,20 @@
+"Contig 1" (1,394)
+  Contig Length:                  394 bases
+  Average Length/Sequence:        336 bases
+  Total Sequence Length:          673 bases  Top Strand:                       1 sequences
+  Bottom Strand:                    1 sequences
+  Total:                            2 sequences
+FEATURES             Location/Qualifiers
+     contig          1..394
+                     /Note="Contig 1(1>394)"
+                     /dnas_scaffold_ID=0
+                     /dnas_scaffold_POS=0
+     coverage_once   1..49
+                     /Note="Only_once"
+     coverage_once   329..394
+                     /Note="Only_once"
+     coverage_below  1..394
+                     /Note="Below threshold"
+
+^^
+TCAGGAAACAGATATGACCAAAATGTGCCAAGAACTGTGCTACTCAAGCACCAGGTAATGAGTGATAAACCAAACCCATGCAAAAGGACCCCATATAGCACAGGTACATGCAGGCACCTTACCATGGAAGCCATTGTCCTCTGTCCAGGCATCTGGCTGCACAACCACAATTGGGTGGACACCCTGGATCCCCAGGAAGGAAAGAGCATTCAAAGTGTCAAAGTAGGACTACTGGAACTGTCACTTCATCATTTTTTTTGTTTGTTTTTGAGACAGGGTCTTGCTCTGTCACCCAGGCTGGAGTGCAGTGGTGTGATCTCAGCTCACTGCCACCTCTGCCTCCTGGGCTCAAGCAATCCTTCCATCTCAGCCTCCACTGGCCGTCGTTTTACAA

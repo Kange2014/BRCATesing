@@ -1,0 +1,26 @@
+Query ID	lcl|Query_133171
+Description	23B1-6.seq
+Molecule type	nucleic acid
+Query Length	188
+
+
+Range 1: 170220 to 170375GenBankGraphicsNext MatchPrevious Match
+Alignment statistics for match #1
+Score	Expect	Identities	Gaps	Strand
+277 bits(306)	1e-76	155/156(99%)	0/156(0%)	Plus/Minus
+Query  21      CCCCATATAGCACAGGTACATGCAGGCACCTTACCATGGAAGCCATTGTCCTCTGTCCAG  80
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  170375  CCCCATATAGCACAGGTACATGCAGGCACCTTACCATGGAAGCCATTGTCCTCTGTCCAG  170316
+
+Query  81      GCATCTGGCTGCACAACCACAATTGGGTGGACACCCTGGATCCCCAGGAAGGAAAGAGCA  140
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  170315  GCATCTGGCTGCACAACCACAATTGGGTGGACACCCTGGATCCCCAGGAAGGAAAGAGCA  170256
+
+Query  141     TTCAAAGTGTCAAAGTAAGACTACTGGAACTGTCAC  176
+               ||||||||||||||||| ||||||||||||||||||
+Sbjct  170255  TTCAAAGTGTCAAAGTAGGACTACTGGAACTGTCAC  170220
+
+##########
+Other 4 sequence blasted to BRCA1: identity 100%
+May select 23B1-3 as the following primer pair
+##########
